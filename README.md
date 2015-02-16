@@ -1,4 +1,4 @@
-## Configuration files for easy installation OS X (Mavericks/Yosemite) on Toshiba L650 laptop ##
+## Configuration files for easy installation OS X (Mavericks) on Toshiba L650 laptop ##
 
 ### Boot ###
 
@@ -11,3 +11,4 @@
 * Ethernet: http://www.insanelymac.com/forum/topic/284119-experimental-atheros-ar813132515261627172-driver-for-107108/
 * Full range brightness: https://github.com/RehabMan/OS-X-ACPI-Backlight
 * Battery indicator: https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
+* The rest have native support
