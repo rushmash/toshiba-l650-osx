@@ -1,3 +1,5 @@
+![13540-img5862s.jpg](https://bitbucket.org/repo/gAea57/images/326057014-13540-img5862s.jpg)
+
 ## Configuration files for easy installation OS X (Mavericks) on Toshiba L650 laptop ##
 
 ### Boot ###
