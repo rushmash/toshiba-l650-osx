@@ -208,13 +208,6 @@
 		<key>SerialNumber</key>
 		<string>CY034G1CAGW</string>
 	</dict>
-	<key>SSDT</key>
-	<dict>
-		<key>DropOem</key>
-		<false/>
-		<key>Generate</key>
-		<false/>
-	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>InjectKexts</key>
